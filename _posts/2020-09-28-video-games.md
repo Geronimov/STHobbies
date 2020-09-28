@@ -20,6 +20,8 @@ You may be wondering how Video Games can be an appropriate hobby for a student t
 \
 So, if you are looking for a new hobby and are even mildly interested in Video Games I recommend you to look for a genre of games that will help you pass the time and help you how it has helped me. Lastly, I will add a few recommendations on some of my favorite games that might catch your attention:
 
+
+
 **First Person Shooters/Battle Royals:**
 
 * Fortnite (PC/Console/Phone) (Free)
