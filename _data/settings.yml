@@ -1,11 +1,14 @@
-title: Your name or name of site
-description: A website with a blog
-header_text: My Dream Blog
-footer_text: Copyright 2020 Your name
-header_feature_image: ../uploads/pages.jpg
-bannerheight: "20vmax"
-gridlayout: false
-logo: /uploads/logo.jpg
+title: "Student Hobbies "
+description: "Hi, I'm Geronimo Villaveces, a second year student in Oxfrod
+  Brookes. I made this website to show students their different options when
+  looking for a hobby. I will do my best to show the costs and how compatible it
+  is with uni life. "
+header_text: "What options do uni students have for Hobbies? "
+footer_text: "Copyright 2020 Geronimo Villaveces Schenk "
+header_feature_image: ../uploads/sthobs.jpg
+bannerheight: 20vmax
+logo: ../uploads/49993860_561514860988941_4833417294469051420_n.jpg
 favicon: /uploads/favicon.ico
-upzoom: true
+gridlayout: false
 fixednavbar: false
+upzoom: true
