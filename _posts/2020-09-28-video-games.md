@@ -15,7 +15,7 @@ As a university student, my time is limited and my budget is not very high for e
 
 You may be wondering how Video Games can be an appropriate hobby for a student that is making a serious career when they are normally associated with children and a “waste of time”, but in my experience, they have granted me a break from a monotonous and sometimes boring routine. Video Games allow me to escape to a place where my problems are irrelevant and I can forget about them for a while to just concentrate on what I have in front of me. Furthermore, they have been linked to help creative thinking, problem-solving and exercise the brain by tanking us out of our comfort zone.
 
-![](../uploads/arade.jpg)
+![]()
 
 \
 So, if you are looking for a new hobby and are even mildly interested in Video Games I recommend you to look for a genre of games that will help you pass the time and help you how it has helped me. Lastly, I will add a few recommendations on some of my favorite games that might catch your attention:
