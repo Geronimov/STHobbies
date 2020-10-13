@@ -1,7 +1,7 @@
 # SITE CONFIGURATION
 baseurl: ''  #leave this alone
-url: "https://student-hobbies.netlify.app"   #change this to yours
-repository: Geronimov/STHobbies
+url: "https://energy-typography.netlify.app"   #change this to yours
+repository: Geronimov/EnergyTypography
 # twitter_username: pageboy  #change to your own twitter account
 lang: en_gb
 timezone: UTC
